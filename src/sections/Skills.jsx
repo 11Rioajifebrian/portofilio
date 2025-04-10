@@ -344,27 +344,27 @@ function Skills() {
   const technologyIcons = [
     {
       name: "HTML",
-      icon: <img src="./assets/icons/html.png" alt="HTML icon" style={{ width: '50px', height: '50px' }} />
+      icon: <img src="./assets/html.png" alt="HTML icon" style={{ width: '50px', height: '50px' }} />
     },
     {
       name: "CSS",
-      icon: <img src="./assets/icons/css.png" alt="CSS icon" style={{ width: '50px', height: '50px' }} />
+      icon: <img src="./assets/css.png" alt="CSS icon" style={{ width: '50px', height: '50px' }} />
     },
     {
       name: "JavaScript",
-      icon: <img src="./assets/icons/js.png" alt="JavaScript icon" style={{ width: '50px', height: '50px' }} />
+      icon: <img src="./assets/js.png" alt="JavaScript icon" style={{ width: '50px', height: '50px' }} />
     },
     {
       name: "Python",
-      icon: <img src="./assets/icons/python.png" alt="Python icon" style={{ width: '50px', height: '50px' }} />
+      icon: <img src="./assets/python.png" alt="Python icon" style={{ width: '50px', height: '50px' }} />
     },
     {
       name: "PHP",
-      icon: <img src="./assets/icons/php.png" alt="PHP icon" style={{ width: '50px', height: '50px' }} />
+      icon: <img src="./assets/php.png" alt="PHP icon" style={{ width: '50px', height: '50px' }} />
     },
     {
       name: "Java",
-      icon: <img src="./assets/icons/java.png" alt="Java icon" style={{ width: '50px', height: '50px' }} />
+      icon: <img src="./assets/java.png" alt="Java icon" style={{ width: '50px', height: '50px' }} />
     }
   ];
 
